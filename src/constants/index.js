@@ -90,7 +90,7 @@ export const experiences = [
 	  id: "0",
 	  title: "Designer, Institute Alumni Relations Cell (IARC)",
 	  text: "At IIT Roorkee, I actively contributed to the Institute Alumni Relations Cell (IARC) by organizing events like Raionzo and Alumni Career Talks, fostering connections between alumni and the institution.",
-	  date: "April 2021- April 2023",
+	  date: "May 2021- April 2023",
 	  status: "done",
 
 	  colorful: true,
@@ -288,7 +288,7 @@ export const Project = [
     text: "Designed and developed a responsive modern portfolio website using React, Tailwind CSS.",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
-    gitlink: "https://github.com/vidya234/Blogging-website",
+    gitlink: "https://github.com/vidya234/Portfolio-Website",
     imageUrl: backgroundproject,
     light: true,
   }
